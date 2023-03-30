@@ -131,7 +131,7 @@ projects:
         link: "#"
         tagline: Many hours learning the basic building blocks of programming using Scratch with Aseprite.  
 
-#oss:
+oss:
     #title: OSS Contributions
     #intro: >
       #You can list your open source software contributions in this
