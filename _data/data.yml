@@ -36,10 +36,10 @@ sidebar:
           level: Native
 
         #- idiom: French
-          level: Professional
+          #level: Professional
 
         #- idiom: Spanish
-          level: Professional
+          #level: Professional
 
     interests:
       title: Interests
