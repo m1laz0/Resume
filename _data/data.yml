@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Mike Milazzo
     tagline: Full Stack Developer
-    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mmilazzo@yahoo.com
@@ -196,5 +196,5 @@ skills:
       - name: Scratch
         level: 65%
 
-#footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
