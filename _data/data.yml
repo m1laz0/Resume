@@ -35,10 +35,10 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
+        #- idiom: French
           level: Professional
 
-        - idiom: Spanish
+        #- idiom: Spanish
           level: Professional
 
     interests:
