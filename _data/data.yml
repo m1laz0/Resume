@@ -92,7 +92,7 @@ experiences:
          Experience collaborating with team members to achieve daily goals. Strong communication and problem-solving skills to address customer inquiries and resolve issues effectively.
       - role: Entry Level Web Developer
         time: 2023 - Present
-        company: Google, London
+        #company: Google, London
         details: |
           Self-motivated, detail-oriented, and thorough individual with a passion for web development seeking to leverage my skills in all areas to contribute to a dynamic team. Developed personal projects using various technologies, including Python, Django, HTML, YAML, and Docker. Strong communication and collaboration skills and a willingness to learn and adapt to new challenges. Experience using text editors and IDE software such as Pycharm, VScode, and Notepad++ to develop well documented and easy to read projects.
       #- role: UI Developer
