@@ -115,19 +115,19 @@ projects:
         link: "#hook"
         tagline: A website designed to showcase my skills and experience as a web developer. Built using Python, JavaScipt, Django, Bootstrap, and additional technologies.
 
-      - title: Udemy course projects
+      - title: Udemy Course Projects
         link: "#"
         tagline: Python, Database, Data Science, IP adressing, Graphic Design.
 
-      - title: Algoexpert course projects
+      - title: Algoexpert Course Projects
         link: "#"
         tagline: Web Dev fundamentels, JavaScript, HTML, CSS, Web3tools, Frontend, Systems, and React.  
 
-      - title: Harvard CS50 course projects
+      - title: Harvard CS50 Course Projects
         link: "#"
         tagline: Computer Science, Data Analysis, Software Development, Mathematics. 
 
-      - title: CS50 Scratch projects
+      - title: CS50 Scratch Projects
         link: "#"
         tagline: Many hours learning the basic building blocks of programming using Scratch with Aseprite.  
 
