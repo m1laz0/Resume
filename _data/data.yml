@@ -9,8 +9,8 @@ sidebar:
     # Profile information
     name: Mike Milazzo
     tagline: Full Stack Developer
-    avatar: comp.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    avatar: #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    comp.png
     # Sidebar links
     email: mmilazzo@yahoo.com
     phone: 631 636 9544
