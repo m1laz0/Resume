@@ -115,7 +115,7 @@ projects:
     assignments:
       - title: Personal Portfolio Site
         link: "#hook"
-        tagline: A website designed to showcase my skills and experience as a web developer. Built using Python, JavaScipt, Django, and additional technologies.
+        tagline: A website designed to showcase my skills and experience as a web developer. Built using Python, JavaScipt, Django, C#, C++, and additional technologies.
 
       - title: Udemy Course Projects
         link: "#"
