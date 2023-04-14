@@ -184,7 +184,10 @@ skills:
       - name: Ability to learn new interfaces 
         level: 100%
 
-      - name: Python 
+      - name: Notepad++
+        level: 95%
+
+      - name: Python
         level: 50%
 
       - name: JavaScript
@@ -195,9 +198,6 @@ skills:
 
       - name: C++
         level: 5%
-
-      - name: Notepad++
-        level: 95%
 
 footer: >
     
