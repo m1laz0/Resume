@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Mike Milazzo
-    tagline: Data Entry/Web Developer
+    tagline: Software Developer
     avatar: pc.png # place 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -56,9 +56,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       Hi there! I'm Mike, a passionate and driven web developer, data entry clerk, and all around computer enthusiast looking for opportunities to grow and make an impact in the industry. With a strong foundation in HTML, CSS, Python, JavaScript, and Django, I have experience building responsive and user-friendly websites.
-       I'm extremely thorough with attention to detail and always eager to learn and improve my skills. As a web developer, I have worked extensively with data manipulation tools and techniques. For example, I have used scripting languages like Python and JavaScript to scrape and extract data from websites, as well as to manipulate data in various formats. I have also designed and developed custom data visualization tools, which have helped me to present complex data in a clear and meaningful way. In my spare time, I enjoy learning everything I possibly can and take my work home with me.
-       I'm a team player who thrives in collaborative environments and loves to tackle challenges. I'm excited to bring my enthusiasm, creativity, and technical skills to your organization and contribute to your projects' success. Let's build something great together!
+       Hi there! I'm Mike, I work with programming languages everyday and like to learn everything I can about computers to increase my overall knowledge. My favorite languages are Python for general projects and machine learning, JavaScript for anything that has to do with web development, 
+       and C# for more graphical intensive applications. I enjoy the challenge of problem-solving and try to incorporate math into my side projects even though I'm not the greatest at it. My skills can be useful in fields such as software development, web development, data science, data entry, 
+       and anything regarding software really. I have understanding of user experience design and creating engaging interactions which can be applied to user interface design or product design. I have experience with project management and working collaboratively on a team.
+       I'm excited to bring my enthusiasm, creativity, and technical skills to your organization and contribute to your projects' success. 
 education:
     title: Education
     info:
@@ -92,11 +93,13 @@ experiences:
         company: Amazon
         details: |
          Experience collaborating with team members to achieve daily goals. Strong communication and problem-solving skills to address customer inquiries and resolve issues effectively.
-      - role: Entry Level Web Developer
+      - role: Entry Level Software Developer
         time: 2023 - Present
         #company: Google, London
         details: |
-          Self-motivated, detail-oriented, and thorough individual with a passion for web development and fascinated by computer science in general. Seeking to leverage my skills in all areas to contribute to a dynamic team. Developed personal projects using various technologies, including Python, Django, HTML, YAML, and Docker. Strong communication and collaboration skills and a willingness to learn and adapt to new challenges. Experience using text editors and IDE software such as Pycharm, VScode, and Notepad++ to develop well documented and easy to read projects.
+          Self-motivated, detail-oriented, and thorough individual with a passion for software development and fascinated by computer science in general. 
+          Seeking to leverage my skills in all areas to contribute to a dynamic team. Willing to work on projects using various technologies and flexible at navigating various user interfaces.
+          Strong communication and collaboration skills and a willingness to learn and adapt to new challenges. Experience using Text Editors and IDE software such as Visual Studio, VScode, Pycharm, Notepad++, and more to develop well documented and easy to read projects.
       #- role: UI Developer
         #time: 2012 - 2014
         #company: Amazon, London
@@ -115,15 +118,15 @@ projects:
     assignments:
       - title: Personal Portfolio Site
         link: "#hook"
-        tagline: A website designed to showcase my skills and experience as a web developer. Built using Python, JavaScipt, Django, C#, C++, and additional technologies.
+        tagline: A website designed to showcase my skills and experience as a web developer. Built using JavaScipt, Python, Django, C#, C++, and additional technologies.
 
       - title: Udemy Course Projects
         link: "#"
-        tagline: Python, Database, Data Science, IP adressing, Graphic Design.
+        tagline: Python, Database, Data Science, Machine Learning, IP adressing, Graphic Design.
 
       - title: Algoexpert Course Projects
         link: "#"
-        tagline: Web Dev fundamentels, JavaScript, HTML, CSS, Web3tools, Frontend, Systems, and React.  
+        tagline: Web Dev fundamentels, JavaScript, HTML, CSS, Web3tools, Frontend.  
 
       - title: Harvard CS50 Course Projects
         link: "#"
@@ -131,7 +134,7 @@ projects:
 
       - title: CS50 Scratch Projects
         link: "#"
-        tagline: Many hours learning the basic building blocks of programming using Scratch with Aseprite.  
+        tagline: Many hours learning the basic building blocks of programming.  
 
 oss:
     #title: OSS Contributions
@@ -178,23 +181,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Ability to learn new interfaces 
+        level: 100%
+
+      - name: Python 
         level: 50%
 
-      - name: Javascript 
+      - name: JavaScript
+        level: 45%
+
+      - name: C#
         level: 25%
 
-      - name: HTML5 & CSS
-        level: 45%
+      - name: C++
+        level: 5%
 
       - name: Notepad++
         level: 95%
-
-      - name: C# & C++
-        level: 15%
-
-      - name: Scratch
-        level: 65%
 
 footer: >
     
