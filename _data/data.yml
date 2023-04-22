@@ -57,7 +57,7 @@ career-profile:
     title: Career Profile
     summary: |
        Hi there! I'm Mike, I work with programming languages everyday and like to learn everything I can about data processing to increase my overall knowledge. I personally use languages like Python for general projects and machine learning, JavaScript for anything that has to do with web development, 
-       and C# for more graphical intensive applications. I enjoy the challenge of problem-solving and try to incorporate math into my side projects even though I'm not the greatest at it. My skills can be useful in fields such as software development, web development, data science, data entry, 
+       and C# for more graphical intensive applications. My skills can be useful in fields such as software development, web development, data science, data entry, 
        and anything regarding software really. I have understanding of user experience design and creating engaging interactions which can be applied to user interface design or product design. I have experience with project management and working collaboratively on a team.
        I'm excited to bring my enthusiasm, creativity, and technical skills to your organization and contribute to your projects' success. 
 education:
@@ -99,7 +99,7 @@ experiences:
         details: |
           Self-motivated, detail-oriented, and thorough individual with a passion for software development and fascinated by computer science in general. 
           Seeking to leverage my skills in all areas to contribute to a dynamic team. Willing to work on projects using various technologies and flexible at navigating various user interfaces.
-          Strong communication and collaboration skills and a willingness to learn and adapt to new challenges. Experience using Text Editors and IDE software such as Visual Studio, VScode, Pycharm, Notepad++, and more to develop well documented and easy to read projects.
+          Strong communication and collaboration skills and a willingness to learn and adapt to new challenges. Experience using Text Editors and IDE software to develop well documented and easy to read projects.
       #- role: UI Developer
         #time: 2012 - 2014
         #company: Amazon, London
