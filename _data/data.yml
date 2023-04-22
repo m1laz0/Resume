@@ -187,6 +187,9 @@ skills:
       - name: Notepad++
         level: 95%
 
+      - name: Visual Studio
+        level: 75%
+
       - name: Python
         level: 50%
 
@@ -195,9 +198,6 @@ skills:
 
       - name: C#
         level: 25%
-
-      - name: C++
-        level: 5%
 
 footer: >
     
