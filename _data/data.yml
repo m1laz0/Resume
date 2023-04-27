@@ -117,7 +117,7 @@ projects:
     assignments:
       - title: Personal Projects
         link: "#hook"
-        tagline: Mostly web design with Python and working with C++ for hobby projects.   
+        tagline: Mostly web design with Python and working with C++ for hobby projects. I like to use Miscrosoft Visual Studio, Notepad++, and additional technologies.   
 
       - title: Python Projects
         link: "#"
@@ -180,22 +180,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Ability to learn new interfaces 
-        level: 100%
+      - name: Learning Aptitude
+        level: 90%
 
-      - name: Notepad++
-        level: 95%
+      - name: Detail-oriented
+        level: 80%
 
-      - name: Visual Studio
-        level: 75%
+      - name: Problem-Solving
+        level: 70%
+
+      - name: Critical Thinking 
+        level: 60%
 
       - name: Python
         level: 50%
 
-      - name: JavaScript
-        level: 45%
-
-      - name: C#
+      - name: C++
         level: 25%
 
 footer: >
