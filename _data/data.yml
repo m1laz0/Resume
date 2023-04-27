@@ -3,31 +3,31 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mike Milazzo
-    tagline: Software Developer
-    avatar: pc.png # place 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
     # Sidebar links
-    email: mmilazzo@yahoo.com
-    phone: 631 636 9544
-    timezone: America/Eastern Timezone
-    #citizenship:
-    #website: pensivelemur.github.io/online-cv/ #do not add http://
-    #linkedin: alandoe
-    #xing: alandoe
-    github: github.com/pensivelemur
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars: codewars.com/users/pensivelemur
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -35,169 +35,187 @@ sidebar:
         - idiom: English
           level: Native
 
-        #- idiom: French
-          #level: Professional
+        - idiom: French
+          level: Professional
 
-        #- idiom: Spanish
-          #level: Professional
+        - idiom: Spanish
+          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Computer Science
+        - item: Climbing
           link:
 
-        - item: Mathematics
+        - item: Snowboarding
           link:
 
-        - item: Physics 
+        - item: Cooking
           link:
 
 career-profile:
-    title: Summary
+    title: Career Profile
     summary: |
-    Hi there! I'm Mike, I work with computational linguistics everyday as personal hobby and like to learn everything I can about data processing to increase my overall knowledge. I personally use languages like Python for general projects and web development, 
-    and C++ for more graphical intensive applications. I have understanding of user experience design and creating engaging interactions which can be applied to user interface design or product design. I have experience with project management and working collaboratively on a team.
-    Highly motivated individual with a diverse skillset seeking employment in any industry.
-      
-    
-    Summary: Summary
-    title: 
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    title: Education
     info:
-      - degree: Associate Degree
-        university: Island Drafting and Technical Institute
-        time: 2013 - 2014
-        #details: |
-          #Describe your study here lorem ipsum dolor sit amet, consectetuer
-          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          #sociis natoque penatibus et magnis dis parturient montes, nascetur
-          #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          #pretium quis, sem.
-            #- Bullet point
-            #- Bullet point
-      - degree: Developmental Studies
-        university: Suffolk Community College
-        time: 2012 - 2013
-        #details: |
-          #Describe your study here lorem ipsum dolor sit amet, consectetuer
-          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          #sociis natoque penatibus et magnis dis parturient montes, nascetur
-          #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          #pretium quis, sem.
-            #- Bullet point
-            #- Bullet point
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
     title: Experiences
     info:
-      - role: Amazon Fulfillment Associate
-        time: 2020 - 2023
-        company: Amazon
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-         Experience collaborating with team members to achieve daily goals. Strong communication and problem-solving skills to address customer inquiries and resolve issues effectively.
-         Seeking to leverage my skills in all areas to contribute to a dynamic team. Willing to work on projects using various technologies and flexible at navigating various user interfaces.
-         Strong communication and collaboration skills and a willingness to learn and adapt to new challenges. Experience using e-commerce tools, Text Editors, and IDE software.
-      #- role: 
-        #time: 2023 - Present
-        #company: Google, London
-        #details: |
-        #- role: UI Developer
-        #time: 2012 - 2014
-        #company: Amazon, London
-        #details: |
-          #Describe your role here lorem ipsum dolor sit amet, consectetuer
-          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          #Cum sociis natoque penatibus et magnis dis parturient montes,
-          #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          #pellentesque eu, pretium quis, sem.
-            #- Bullet point
-            #- Bullet point
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 projects:
     title: Projects
     intro: >
-      
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Personal Projects
+      - title: Velocity
         link: "#hook"
-        tagline: Learning to synergistically harness the strength of Python and C++ to develop a consistant workflow.
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Python Projects
+      - title: DevStudio
         link: "#"
-        tagline: Relying on Python for frontend and backend development, with and without frameworks.
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Udemy Course Projects
+      - title: Tempo
         link: "#"
-        tagline: Database, Data Science, Algorithms, IP adressing, Graphic Design. 
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Algoexpert Course Projects
+      - title: Atom
         link: "#"
-        tagline: Web Dev Fundamentels, HTML, CSS, Web3tools, Frontend. 
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Harvard CS50 Course Projects
+      - title: Delta
         link: "#"
-        tagline: Computer Science, Data Analysis, Software Development, Mathematics.   
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    #title: OSS Contributions
-    #intro: >
-      #You can list your open source software contributions in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    #contributions:
-      #- title: Tempo
-        #link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      #- title: Atom
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      #- title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#publications:
-    #title: Publications
-    #intro: |
-      #You can list your publications in this section. Lorem ipsum dolor sit
-      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      #bibendum fringilla a eu lectus.
-    #papers:
-      #- title: The Art of Computer Programming
-        #link: "#"
-        #authors: Donald E. Knuth
-        #conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        #link: "#"
-        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      #- title: A syntax directed compiler for Algol 60
-        #link: "#"
-        #authors: Edgar T. Irons
-        #conference: "Comm. ACM 4 (1961), 51–55"
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Learning Aptitude
-        level: 90%
+      - name: Python & Django
+        level: 98%
 
-      - name: Detail-oriented
-        level: 80%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: Problem-Solving
-        level: 70%
+      - name: Angular
+        level: 98%
 
-      - name: Critical Thinking 
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
         level: 60%
 
-      - name: Python
-        level: 50%
-
-      - name: C++
-        level: 25%
-
 footer: >
-    
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
