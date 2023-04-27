@@ -54,11 +54,11 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-       Hi there! I'm Mike, I work with computational linguistics everyday as personal hobby and like to learn everything I can about data processing to increase my overall knowledge. I personally use languages like Python for general projects and web development, 
+    title: Summary
+    summary: |Hi there! I'm Mike, I work with computational linguistics everyday as personal hobby and like to learn everything I can about data processing to increase my overall knowledge. I personally use languages like Python for general projects and web development, 
        and C++ for more graphical intensive applications. I have understanding of user experience design and creating engaging interactions which can be applied to user interface design or product design. I have experience with project management and working collaboratively on a team.
        Highly motivated individual with a diverse skillset seeking employment in any industry.
+      
     
     education:
     title: Education
