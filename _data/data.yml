@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    #education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Mike Milazzo
@@ -61,7 +61,7 @@ career-profile:
     Highly motivated individual with a diverse skillset seeking employment in any industry.
       
     
-    Summary: Summary
+    #Summary: Education
     title: 
     info:
       - degree: Associate Degree
