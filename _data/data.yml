@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Mike Milazzo
-    #tagline: Software Developer
+    tagline: Software Developer
     avatar: pc.png # place 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -61,7 +61,7 @@ career-profile:
     Highly motivated individual with a diverse skillset seeking employment in any industry.
       
     
-    #Summary: Education
+    Summary: Education
     title: 
     info:
       - degree: Associate Degree
