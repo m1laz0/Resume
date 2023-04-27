@@ -56,8 +56,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       Hi there! I'm Mike, I work with computational linguistics everyday as personal hobby and like to learn everything I can about data processing to increase my overall knowledge. I personally use languages like Python for general projects, JavaScript for anything that has to do with web development, 
-       and C# for more graphical intensive applications. I have understanding of user experience design and creating engaging interactions which can be applied to user interface design or product design. I have experience with project management and working collaboratively on a team.
+       Hi there! I'm Mike, I work with computational linguistics everyday as personal hobby and like to learn everything I can about data processing to increase my overall knowledge. I personally use languages like Python for general projects and web development, 
+       and C++ for more graphical intensive applications. I have understanding of user experience design and creating engaging interactions which can be applied to user interface design or product design. I have experience with project management and working collaboratively on a team.
        Highly motivated individual with a diverse skillset seeking employment in any industry.
     
     education:
@@ -115,25 +115,25 @@ projects:
     intro: >
       
     assignments:
-      - title: Personal Portfolio Site
+      - title: Personal Projects
         link: "#hook"
-        tagline: A website designed to showcase my skills and experience as a web developer. Built using JavaScipt without framework, and additional technologies.
+        tagline: Mostly web design with Python and working with C++ for hobby projects.   
+
+      - title: Python Projects
+        link: "#"
+        tagline: Relying on Python for frontend and backend web dev, with or without frameworks. 
 
       - title: Udemy Course Projects
         link: "#"
-        tagline: Python, Database, Data Science, Machine Learning, IP adressing, Graphic Design.
+        tagline: Database, Data Science, Algorithms, IP adressing, Graphic Design. 
 
       - title: Algoexpert Course Projects
         link: "#"
-        tagline: Web Dev fundamentels, JavaScript, HTML, CSS, Web3tools, Frontend.  
+        tagline: Web Dev Fundamentels, HTML, CSS, Web3tools, Frontend. 
 
       - title: Harvard CS50 Course Projects
         link: "#"
-        tagline: Computer Science, Data Analysis, Software Development, Mathematics. 
-
-      - title: CS50 Scratch Projects
-        link: "#"
-        tagline: Many hours learning the basic building blocks of programming.  
+        tagline: Computer Science, Data Analysis, Software Development, Mathematics.   
 
 oss:
     #title: OSS Contributions
