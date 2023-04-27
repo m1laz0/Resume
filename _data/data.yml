@@ -117,11 +117,11 @@ projects:
     assignments:
       - title: Personal Projects
         link: "#hook"
-        tagline: Mostly web design with Python and working with C++ for hobby projects. I like to use Miscrosoft Visual Studio, Notepad++, and additional technologies.   
+        tagline: Learning to synergistically harness the strength of Python and C++ to develop a workflow process that achieves unparalleled performance and versatility.
 
       - title: Python Projects
         link: "#"
-        tagline: Relying on Python for frontend and backend web dev, with or without frameworks. 
+        tagline: Relying on Python for frontend and backend development, with and without frameworks.
 
       - title: Udemy Course Projects
         link: "#"
