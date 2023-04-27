@@ -144,7 +144,7 @@ projects:
         link: "#"
         tagline: Computer Science, Data Analysis, Software Development, Mathematics. 
 
-#oss:
+oss:
     #title: OSS Contributions
     #intro: >
       You can list your open source software contributions in this
