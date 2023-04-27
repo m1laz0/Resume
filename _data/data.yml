@@ -117,7 +117,7 @@ projects:
     assignments:
       - title: Personal Projects
         link: "#hook"
-        tagline: Learning to synergistically harness the strength of Python and C++ to develop a workflow process that achieves unparalleled performance and versatility.
+        tagline: Learning to synergistically harness the strength of Python and C++ to develop a consistant workflow.
 
       - title: Python Projects
         link: "#"
