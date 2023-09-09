@@ -127,23 +127,15 @@ projects:
     assignments:
       - title: Open-source projects
         link: "#hook"
-        tagline: Actively contributing to open-source projects in JavaScript and C# for skill enhancement and community collaboration.
+        tagline: Actively contributing to open-source projects for skill enhancement and community collaboration.
 
-      - title: Javascript Projects
+      - title: C++ & Lua Projects
         link: "#"
-        tagline: Developing a personal website as a platform to demonstrate my skills and portfolio.
+        tagline: Acquiring a solid understanding of core principles encompassing various fundamentals within the C++ and Lua language.
 
-      - title: PostgreSQL Projects
+      - title: Software Projects
         link: "#"
-        tagline: Integrating structured data into the PostgreSQL database for personal projects.
-
-      - title: C# Projects
-        link: "#"
-        tagline: Acquiring a solid understanding of core principles encompassing various fundamentals within the C# language.
-
-      - title: Unity & Blender Projects
-        link: "#"
-        tagline: Exploring procedural generation techniques, rigging, modeling, and various intricate mechanics. 
+        tagline: Developing a custom, user-friendly software engine using C++ for personal learning and experimentation, with Lua integrated as the embedded scripting language.
 
 oss:
     #title: OSS Contributions
@@ -191,24 +183,21 @@ skills:
 
     toolset:
       - name: Microsoft Visual Studio Code
-        level: 70%
+        level: 50%
 
       - name: Microsoft Visual Studio
-        level: 60%
+        level: 50%
 
-      - name: JavaScript 
-        level: 50% 
+      - name: Notepad++
+        level: 95% 
 
-      - name: HTML/CSS
-        level: 40%
+      - name: C++
+        level: 25%
 
-      - name: NodeJS
-        level: 30%
-
-      - name: PostgresSQL 
+      - name: Lua
         level: 20%
 
-      - name: C# 
+      - name: Blender
         level: 10%
 
 footer: >
