@@ -125,17 +125,17 @@ projects:
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Personal Website
+      - title: Open-source projects
         link: "#hook"
-        tagline: Developing a personal website as a platform to demonstrate my skills and portfolio.
+        tagline: Actively contributing to open-source projects in JavaScript and C# for skill enhancement and community collaboration.
 
-      - title: Python Projects
+      - title: Javascript Projects
         link: "#"
-        tagline: Relying on Python for frontend and backend development, with and without frameworks.
+        tagline: Developing a personal website as a platform to demonstrate my skills and portfolio.
 
       - title: PostgreSQL Projects
         link: "#"
-        tagline: 
+        tagline: Integrating structured data into the PostgreSQL database for personal projects.
 
       - title: C# Projects
         link: "#"
@@ -196,19 +196,19 @@ skills:
       - name: Microsoft Visual Studio
         level: 60%
 
-      - name: Python 
+      - name: JavaScript 
         level: 50% 
 
       - name: HTML/CSS
         level: 40%
 
-      - name: PostgreSQL
+      - name: NodeJS
         level: 30%
 
-      - name: C# 
+      - name: PostgresSQL 
         level: 20%
 
-      - name: Unity & Blender 
+      - name: C# 
         level: 10%
 
 footer: >
