@@ -47,10 +47,10 @@ sidebar:
         - item: Programming
           link:
 
-        - item: Drawing
+        - item: Writing
           link:
 
-        - item: Chess 
+        - item: Drawing 
           link:
 
 career-profile:
@@ -85,9 +85,9 @@ education:
 experiences:
     title: Skills
     info:
-      - role: Amazon Fulfillment Associate
-        time: 2020 - 2023
-        company: Amazon
+      #- role: Amazon Fulfillment Associate
+        #time: 2020 - 2023
+        #company: Amazon
         details: |
          Comprehensive Project Records: Meticulously documented all aspects of personal software development projects, including project objectives, design choices, technical challenges, and solutions. These records serve as valuable references for ongoing learning and improvement.
          
