@@ -187,23 +187,26 @@ skills:
     title: Proficiency
 
     toolset:
-      - name: Learning Aptitude
-        level: 100%
-
-      - name: Detail-oriented
-        level: 80%
-
-      - name: Problem-Solving
+      - name: Microsoft Visual Studio Code
         level: 70%
 
-      - name: Critical Thinking 
+      - name: Microsoft Visual Studio
         level: 60%
 
-      - name: Python
-        level: 50%
+      - name: Python 
+        level: 50% 
 
-      - name: C++
-        level: 25%
+      - name: HTML/CSS
+        level: 40%
+
+      - name: PostgreSQL
+        level: 30%
+
+      - name: C# 
+        level: 20%
+
+      - name: Unity & Blender 
+        level: 10%
 
 footer: >
     
