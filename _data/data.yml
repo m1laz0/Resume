@@ -183,10 +183,10 @@ skills:
 
     toolset:
       - name: Microsoft Visual Studio Code
-        level: 50%
+        level: 70%
 
       - name: Microsoft Visual Studio
-        level: 50%
+        level: 70%
 
       - name: Notepad++
         level: 95% 
