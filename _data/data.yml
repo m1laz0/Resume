@@ -125,7 +125,7 @@ projects:
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Open-source projects
+      - title: Open-source Projects
         link: "#hook"
         tagline: Actively contributing to open-source projects for skill enhancement and community collaboration.
 
