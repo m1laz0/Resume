@@ -135,7 +135,7 @@ projects:
 
       - title: Software Projects
         link: "#"
-        tagline: Developing a custom, user-friendly software engine using C++ for personal learning and experimentation, with Lua integrated as the embedded scripting language.
+        tagline: Developing a custom, oversimplified software engine using C++ for personal learning and experimentation, with Lua integrated as the embedded scripting language.
 
 oss:
     #title: OSS Contributions
