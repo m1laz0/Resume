@@ -59,7 +59,8 @@ career-profile:
      Highly adaptable and open to learning diverse technologies to enhance job performance and contribute to organizational success. 
      In my spare time, I actively participate in collaborative endeavors aimed at tackling challenges by reviewing and making contributions to code repositories, all while concurrently engaging in personal project development.
      I usually use use OpenAI and online documentation to experiment with code snippets and full logic to locate optimal solutions while cultivating a natural comprehension of data types and system components.
-     I excel in crafting user-friendly documents such as knowledge bases and readme files, aiming for simplicity and precision to ensure accessibility.
+     I take pleasure in crafting documentation, such as knowledge bases, readme files, and spreadsheets, as a means to preserve valuable knowledge for future reference. 
+     My approach prioritizes simplicity and precision, ensuring accessibility and clarity in all documentation.
      In addition to my software skills, I maintain a typing speed of approximately 30 words per minute with an accuracy rate of 95%. 
 education:
     title: Education
@@ -124,25 +125,25 @@ projects:
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Personal Projects
+      - title: Personal Website
         link: "#hook"
-        tagline: Learning to synergistically harness the strength of Python and C++ to develop a consistant workflow.
+        tagline: Developing a personal website as a platform to demonstrate my skills and portfolio.
 
       - title: Python Projects
         link: "#"
         tagline: Relying on Python for frontend and backend development, with and without frameworks.
 
-      - title: Udemy Course Projects
+      - title: PostgreSQL Projects
         link: "#"
-        tagline: Database, Data Science, Algorithms, IP adressing, Graphic Design. 
+        tagline: 
 
-      - title: Algoexpert Course Projects
+      - title: C# Projects
         link: "#"
-        tagline: Web Dev Fundamentels, HTML, CSS, Web3tools, Frontend. 
+        tagline: Acquiring a solid understanding of core principles encompassing various fundamentals within the C# language.
 
-      - title: Harvard CS50 Course Projects
+      - title: Unity & Blender Projects
         link: "#"
-        tagline: Computer Science, Data Analysis, Software Development, Mathematics. 
+        tagline: Exploring procedural generation techniques, rigging, modeling, and various mechanics. 
 
 oss:
     #title: OSS Contributions
