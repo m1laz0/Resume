@@ -56,9 +56,9 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-     Hello, I'm Mike, an aspiring software developer. My approach to software development involves leveraging OpenAI and online documentation to experiment with code snippets and complete logic, striving for optimal solutions while cultivating a natural comprehension of data types and system components.
-     My toolkit includes Unity for interactive mechanics, Visual Studio, Visual Studio Code, Blender, Node.js, Express, HTML, CSS, Notepad++, and more. I excel in crafting user-friendly documents such as knowledge bases and readme files, aiming for simplicity and precision to ensure accessibility.
-     In addition to my software skills, I maintain a typing speed of approximately 30 words per minute with an accuracy rate of 95%. I embrace the philosophy that every challenge is an opportunity to gain new insight.
+     Highly adaptable and open to learning diverse technologies to enhance job performance and contribute to organizational success. I currently use OpenAI and online documentation to experiment with code snippets and complete logic, striving for optimal solutions while cultivating a natural comprehension of data types and system components.
+     My most recent toolkit includes Unity for interactive mechanics, Visual Studio, Visual Studio Code, Blender, Node.js, Express, HTML, CSS, Notepad++, and more. I excel in crafting user-friendly documents such as knowledge bases and readme files, aiming for simplicity and precision to ensure accessibility.
+     In addition to my software skills, I maintain a typing speed of approximately 30 words per minute with an accuracy rate of 95%. 
 education:
     title: Education
     info:
@@ -82,7 +82,7 @@ education:
           #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           #pretium quis, sem.
             
-experiences:
+Skills:
     title: Experiences
     info:
       - role: Amazon Fulfillment Associate
